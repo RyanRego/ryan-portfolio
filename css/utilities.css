@@ -78,7 +78,7 @@ h2::selection {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-top: 8rem;
+  margin-top: 5rem;
   padding: 1rem;
 }
 
@@ -172,6 +172,6 @@ h2::selection {
   }
 
   .content-text h2 {
-    font-size: 2.5rem;
+    font-size: 1.55rem;
   }
 }
